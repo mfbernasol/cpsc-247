@@ -1,0 +1,23 @@
+body {
+    color: #fff;
+    text-align: center;
+}
+
+h1,h2 {
+    text-align: center;
+}
+.top{
+    background-color: #1f4068;
+    color: white;
+    padding: 5%;
+    text-align: center;
+}
+
+.me-img{
+    width: 10%;
+}
+
+.middle {
+    background-color: #206a5d;
+    padding: 2% 10%;
+}
