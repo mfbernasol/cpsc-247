@@ -1,5 +1,5 @@
 body {
-    color: #fff;
+    /* color: #fff; */
     text-align: center;
 }
 
@@ -32,4 +32,9 @@ ul {
     text-align: center;
     list-style-position: inside;
     list-style-type: square;
+}
+
+.card-img-top {
+    width: 15%;
+    padding-top: 5%;
 }
